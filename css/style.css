@@ -1,0 +1,15 @@
+input{
+    width: 200px;
+    padding-left: 10px;
+}
+.container{
+    background-color: bisque;
+    width: 300px;
+    margin-top: 90px;
+}
+button{
+    border-style: none;
+    margin-bottom: 30px;
+    background-color: green;
+    border-radius: 5px;
+}
